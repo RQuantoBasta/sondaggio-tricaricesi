@@ -5,6 +5,7 @@ Risultati del sondaggio fatto ai tricaricesi
 ## File disponibili
 - [Risultati grezzi](Risultati_grezzi.csv): Risultati grezzi senza alcuna correzione
 - [Risultati Intervista ai Cittadini](Risultati_Intervista_ai_Cittadini.csv): Risultati con correzione alle risposte alla domanda `Studi o lavori a Tricarico?`
+- [Grafici](grafici.md): Grafici
 
 <br>
 
